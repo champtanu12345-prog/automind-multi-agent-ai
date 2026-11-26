@@ -77,5 +77,5 @@ The project can be tested using Google Colab.
 
 ## Author
 
-Your Name
+Tanishk Das
 
